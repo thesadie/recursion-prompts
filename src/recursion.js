@@ -147,7 +147,7 @@ var palindrome = function(string) {
 	}
 
 };
-// raccar
+
 
 // 11. Write a function that returns the remainder of x divided by y without using the
 // modulo (%) operator.
